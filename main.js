@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'anabeatrizstahl',
-  youtube: 'anabeatriz',
+  youtube: 'PinchiitoFarias',
   instagram: 'stahlbia',
   facebook: 'ana.b.stahl',
   twitter: 'stahlbia'
